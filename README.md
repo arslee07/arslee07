@@ -1,3 +1,7 @@
+![](bruh.png)
+
+---
+
 ### Hi there, I'm [Arsenii](https://github.com/arslee07). 👋
 
 Hi, I'm Arsenii Liunsha, a full-stack Python developer, a Linux system administrator and Unity game developer.
