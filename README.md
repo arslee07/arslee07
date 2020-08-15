@@ -1,4 +1,4 @@
-![recursion](bruh.png)
+![recursion](https://github.com/arslee07/arslee07/blob/master/bruh.png)
 ## 👋 **Hello, my name is [Arsenii](https://github.com/arslee07).**
 ### 😊 And you are on the main page of my Github profile.
 ---
