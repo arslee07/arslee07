@@ -19,19 +19,19 @@ Hi, I'm Arsenii Liunsha, a full-stack Python developer, a Linux system administr
 ### **My stuff:**
 
 <a href="https://github.com/arslee07">
-    <code><img height="20" alt="GitHub" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/assets/github.png"></code>
+    <code><img height="20" alt="GitHub" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/master/assets/github.png"></code>
 </a>
 <a href="https://vk.com/true_arslee">
-    <code><img height="20" alt="VKontakte" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/assets/vk.png"></code>
+    <code><img height="20" alt="VKontakte" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/master/assets/vk.png"></code>
 </a>
 <a href="https://reddit.com/u/arslee07">
-    <code><img height="20" alt="Reddit" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/assets/reddit.png"></code>
+    <code><img height="20" alt="Reddit" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/master/assets/reddit.png"></code>
 </a>
 <a href="https://t.me/arslee">
-    <code><img height="20" alt="Telegram" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/assets/telegram.png"></code>
+    <code><img height="20" alt="Telegram" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/master/assets/telegram.png"></code>
 </a>
 <a href="mailto:me@arslee.tk">
-    <code><img height="20" alt="Mail" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/assets/gmail.png"></code>
+    <code><img height="20" alt="Mail" style="margin: 5px" src="https://raw.githubusercontent.com/arslee07/arslee07/master/assets/gmail.png"></code>
 </a>
 
 
