@@ -23,7 +23,16 @@ Hi, I'm Arsenii Liunsha, a full-stack Python developer, a Linux system administr
 
 
 </br>
-<img allign="center" src="https://github-readme-stats.vercel.app/api?username=arslee07" />
-<img allign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslee07&layout=compact" />
-<img allign="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslee07&repo=OpenMod" />
-<img allign="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslee07&repo=arslee07.github.io" /> 
+<a href="https://github.com/arslee07">
+    <img allign="center" src="https://github-readme-stats.vercel.app/api?username=arslee07" />
+</a>
+<a href="https://github.com/arslee07">
+    <img allign="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslee07&layout=compact" />
+</a>
+
+<a href="https://github.com/arslee07/OpenMod">
+    <img allign="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslee07&repo=OpenMod" />
+</a>
+<a href="https://github.com/arslee07/arslee07.github.io">
+    <img allign="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslee07&repo=arslee07.github.io" /> 
+</a>
