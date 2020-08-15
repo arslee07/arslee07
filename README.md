@@ -1,9 +1,4 @@
-<!-- ![recursion](https://github.com/arslee07/arslee07/blob/master/bruh.png)
-</br>
-</br> -->
-
 ### Hi there, I'm [Arsenii](https://github.com/arslee07). 👋
-</br>
 Hi, I'm Arsenii Liunsha, a full-stack Python developer, a Linux system administrator and Unity game developer.
 
 - 🔭 I’m currently working on my project [OpenMod](https://github.com/arslee07/OpenMod)
@@ -20,6 +15,10 @@ Hi, I'm Arsenii Liunsha, a full-stack Python developer, a Linux system administr
 <code><img height="20" style="margin: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" style="margin: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" style="margin: 5px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+
+### **My stuff:**
+
+<code><img height="20" style="margin: 5px" src="https://github.com/perssBest/perssBest/blob/master/assets/gmail.png"></code>
 
 
 </br>
