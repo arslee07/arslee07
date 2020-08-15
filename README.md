@@ -1,9 +1,8 @@
-![recursion](https://github.com/arslee07/arslee07/blob/master/bruh.png)
+<!-- ![recursion](https://github.com/arslee07/arslee07/blob/master/bruh.png)
 </br>
-</br>
+</br> -->
 
 ### Hi there, I'm [Arsenii](https://github.com/arslee07). 👋
-</br>
 </br>
 Hi, I'm Arsenii Liunsha, a full-stack Python developer, a Linux system administrator and Unity game developer.
 
