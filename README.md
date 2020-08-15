@@ -1,1 +1,1 @@
-![arslee07](bruh.png)
+![](bruh.png)
