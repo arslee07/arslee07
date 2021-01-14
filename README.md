@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Arsenii</h1>
-<h3 align="center">Russian fullstack Python developer, Linux system administrator and just a good person :)</h3>
+<h1>Hi 👋, I'm Arsenii</h1>
+<h3>Russian fullstack Python developer, Linux system administrator and just a good person :)</h3>
 
 - 🔭 I’m currently working on [OpenMod](https://open-mod.tk)
-
 - 🌱 I’m currently learning **JS/TS, Node, React, Bootstrap**
-
 - 👨‍💻 All of my projects are available at [https://arslee.tk](https://arslee.tk)
-
 - 💬 Ask me **everything about python**
-
 - 📫 How to reach me **Telegram: @arslee, E-Mail: me@arslee.tk, Twitter: @arslee_**
 
 <h3 align="left">Languages and Tools:</h3>
