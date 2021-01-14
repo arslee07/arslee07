@@ -1,7 +1,3 @@
-![](https://github.com/arslee07/arslee07/blob/master/bruh.png)
-
----
-
 <h1 align="center">Hi 👋, I'm Arsenii</h1>
 <h3 align="center">Russian fullstack Python developer, Linux system administrator and just a good person :)</h3>
 
