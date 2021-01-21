@@ -1,5 +1,3 @@
-JetBrains request ID: 02012021/6427920
-
 <h1>Hi 👋, I'm Arsenii</h1>
 <h3>Russian fullstack Python developer, Linux system administrator and just a good person :)</h3>
 
