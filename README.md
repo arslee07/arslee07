@@ -2,7 +2,7 @@
 <h3>Russian fullstack Python developer, Linux system administrator and just a good person :)</h3>
 
 - 🔭 I’m currently working on [OpenMod](https://open-mod.tk)
-- 🌱 I’m currently learning **JS/TS, Node, React, Bootstrap**
+- 🌱 I’m currently learning **JS/TS, Node, Express, React, Bootstrap**
 - 👨‍💻 All of my projects are available at [https://arslee.tk](https://arslee.tk)
 - 💬 Ask me **everything about python**
 - 📫 How to reach me **Telegram: [@arslee](https://t.me/arslee), E-Mail: me@arslee.tk, Twitter: [@arslee_](https://twitter.com/arslee_)**
