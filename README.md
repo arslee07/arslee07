@@ -3,8 +3,6 @@
 ## Currently learning
 ![Dart](https://shields.io/badge/Dart-blue?logo=dart&style=flat-square) ![Flutter](https://shields.io/badge/Flutter-02569b?logo=flutter&style=flat-square)
 
----
-
 ## Contacts
 * Telegram - [@arslee](https://t.me/arslee)
 * Email - [arslee07@gmail.com](mailto:arslee07@gmail.com)
