@@ -3,6 +3,7 @@
 ## Currently learning:
 ![Svelte](https://shields.io/badge/Svelte-F03C0A?logo=svelte&style=flat-square&logoColor=white) ![Dart](https://shields.io/badge/Dart-blue?logo=dart&style=flat-square) ![Flutter](https://shields.io/badge/Flutter-02569b?logo=flutter&style=flat-square)
 
-## Contacts
+## Contacts:
 * Telegram - [@arslee](https://t.me/arslee)
+* Discord - [@arslee#4994](https://dsc.bio/ars)
 * Email - [arslee07@gmail.com](mailto:arslee07@gmail.com)
