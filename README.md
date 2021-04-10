@@ -1,6 +1,3 @@
-<h1>Hi 👋, I'm Arsenii</h1>
-<h3>Russian fullstack Python developer, Linux system administrator and just a good person :)</h3>
-
 ## My main languages: 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ## My main frameworks: 
