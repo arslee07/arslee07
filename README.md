@@ -7,3 +7,5 @@
 * Telegram - [@arslee](https://t.me/arslee)
 * Discord - [@arslee#4994](https://dsc.bio/ars)
 * Email - [arslee07@gmail.com](mailto:arslee07@gmail.com)
+
+Also, you can find some of my dotfiles and configs in this repo.
