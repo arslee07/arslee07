@@ -9,3 +9,5 @@
 * Email    - [arslee07@gmail.com](mailto:arslee07@gmail.com)
 
 Also, you can find some of my dotfiles and configs in this repo.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arslee07&show_icons=true&theme=dracula)
