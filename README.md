@@ -1,7 +1,11 @@
-## Stack
-![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=python&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node.JS-026E00?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/-Java-b07219?style=for-the-badge&logo=java&logoColor=white) ![Hackintosh](https://shields.io/badge/Hackintosh-grey?logo=apple&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-24B8EB?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://shields.io/badge/Google%20Cloud-blue?logo=google-cloud&style=for-the-badge&logoColor=white)
-## Currently learning:
-![Dart](https://shields.io/badge/Dart-blue?logo=dart&style=for-the-badge) ![Flutter](https://shields.io/badge/Flutter-02569b?logo=flutter&style=for-the-badge)
+## Languages
+![Python](https://img.shields.io/badge/-Python-3572a5?style=for-the-badge&logo=python&logoColor=white) ![NodeJS](https://img.shields.io/badge/-Node.JS-026E00?style=for-the-badge&logo=node.js&logoColor=white) ![Dart](https://shields.io/badge/Dart-blue?logo=dart&style=for-the-badge) 
+
+## Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://shields.io/badge/Flutter-02569b?logo=flutter&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## Tools
+![Git](https://img.shields.io/badge/-Git-F44D27?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-24B8EB?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub](https://img.shields.io/badge/-GitHub-24292E?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Code](https://img.shields.io/badge/Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Contacts
 * Telegram - [@arslee](https://t.me/arslee)
