@@ -14,7 +14,7 @@
 
 ## At the moment working on
 - [FreedomLand](https://github.com/fdl-mc) - Digital ecosystem for my vanilla Minecraft server.
-- [anilibria.dart](https://github.com/arslee07/anilibira.dart), [AniLibria](https://github.com/arslee07/anilibira-app) - Anilibria Dart API wrapper and cross-platform Flutter app
+- [anilibria.dart](https://github.com/arslee07/anilibira.dart), [AniLibria](https://github.com/arslee07/anilibria-flutter) - Anilibria Dart API wrapper and cross-platform Flutter app
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=arslee07&show_icons=true&hide_rank=true&theme=dracula&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslee07&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
