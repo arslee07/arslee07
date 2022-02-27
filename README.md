@@ -12,5 +12,5 @@
 - [anilibria.dart](https://github.com/arslee07/anilibria.dart), [AniLibria](https://github.com/arslee07/anilibria-flutter) - Anilibria Dart API wrapper and cross-platform Flutter app
 
 ## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=arslee07&show_icons=true&hide_rank=true&theme=gruvbox&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslee07&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats-kvrxw2e9w-arslee07.vercel.app/api?username=arslee07&show_icons=true&hide_rank=true&theme=gruvbox&count_private=true) [![Top Langs](https://github-readme-stats-kvrxw2e9w-arslee07.vercel.app/api/top-langs/?username=arslee07&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 [![Achivements](https://github-profile-trophy.vercel.app/?username=arslee07&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
